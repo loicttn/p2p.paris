@@ -1,8 +1,6 @@
 ---
 title: P2P Festival Hackathon
 date: 2022-04-08
-type: 'hackathon'
-layout: 'single'
 alias: /hackathon
 hackathon_title: Le hackathon des P2P Builders
 hackathon_description: Pendant le P2P Festival, du 29 Avril au 1er Mai
