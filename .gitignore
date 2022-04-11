@@ -12,5 +12,6 @@ assets/gen
 content/speakers/*
 content/talks/*
 content/event/*
+!content/event/hackathon-1
 
 !content/*/_index*md
